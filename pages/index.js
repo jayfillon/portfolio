@@ -9,6 +9,7 @@ import Footer from "../src/components/Footer";
 const Home = ({ work }) => {
   return (
     <>
+      {/* Update to refresh Sanity for updated portfolio items. */}
       <Meta description="A collection of work, past and present. Some built for today, for tomorrow, and others for the future." />
       <Header />
       <Intro />
